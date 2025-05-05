@@ -1,0 +1,17 @@
+﻿@model IEnumerable<EducationSystem.Domain.Models.Course>
+
+<h2>Courses</h2>
+
+<div class="row">
+    @foreach (var course in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">@course.Title</h5>
+                    <p class="card-text">@course.Description</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

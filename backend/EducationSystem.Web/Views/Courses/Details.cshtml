@@ -1,0 +1,7 @@
+﻿@model EducationSystem.Domain.Models.Course
+
+<h2>@Model.Title</h2>
+<p>@Model.Description</p>
+<p>Author: @Model.Author?.Name</p>
+
+<a asp-controller="Courses" asp-action="Index">Back to Courses</a>
