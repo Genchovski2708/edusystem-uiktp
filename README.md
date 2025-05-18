@@ -1,5 +1,3 @@
-Sure! Here's the updated and complete README with both frontend and backend setup instructions:
-
 ---
 
 ## 🚀 Getting Started (EduSystem: Frontend + Backend)
