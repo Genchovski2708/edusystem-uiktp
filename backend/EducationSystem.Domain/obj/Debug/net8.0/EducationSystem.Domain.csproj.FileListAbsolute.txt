@@ -50,3 +50,16 @@ C:\Users\User\Desktop\Faklutet\UIKTP\UIKTP-Project\EducationSystem.Domain\obj\De
 C:\Users\User\Desktop\Faklutet\UIKTP\UIKTP-Project\EducationSystem.Domain\obj\Debug\net8.0\refint\EducationSystem.Domain.dll
 C:\Users\User\Desktop\Faklutet\UIKTP\UIKTP-Project\EducationSystem.Domain\obj\Debug\net8.0\EducationSystem.Domain.pdb
 C:\Users\User\Desktop\Faklutet\UIKTP\UIKTP-Project\EducationSystem.Domain\obj\Debug\net8.0\ref\EducationSystem.Domain.dll
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\bin\Debug\net8.0\EducationSystem.Domain.deps.json
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\bin\Debug\net8.0\EducationSystem.Domain.dll
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\bin\Debug\net8.0\EducationSystem.Domain.pdb
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\obj\Debug\net8.0\EducationSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\obj\Debug\net8.0\EducationSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\obj\Debug\net8.0\EducationSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\obj\Debug\net8.0\EducationSystem.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\obj\Debug\net8.0\EducationSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\obj\Debug\net8.0\EducationSystem.Domain.sourcelink.json
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\obj\Debug\net8.0\EducationSystem.Domain.dll
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\obj\Debug\net8.0\refint\EducationSystem.Domain.dll
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\obj\Debug\net8.0\EducationSystem.Domain.pdb
+C:\Users\User\Desktop\Faklutet\UIKTP\full\edusystem-uiktp\backend\EducationSystem.Domain\obj\Debug\net8.0\ref\EducationSystem.Domain.dll

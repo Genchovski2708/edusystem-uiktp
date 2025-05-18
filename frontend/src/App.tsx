@@ -9,6 +9,7 @@ import { QuizPage } from './pages/QuizPage';
 import { ProfilePage } from './pages/ProfilePage';
 import { LoginPage } from './pages/LoginPage';
 import { RegisterPage } from './pages/RegisterPage';
+import {PagePlaceholder} from "@/pages/PagePlaceholder.tsx";
 
 const App: React.FC = () => {
     return (
@@ -24,7 +25,7 @@ const App: React.FC = () => {
                     <Route path="/login" element={<LoginPage />} />
                     <Route path="/register" element={<RegisterPage />} />
                     <Route path="/my-courses" element={<ProfilePage defaultTab="courses" />} />
-                    
+                    <Route path="/page/:pageType" element={<PagePlaceholder />} />
                 </Routes>
 
             </Router>

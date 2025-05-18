@@ -15,7 +15,7 @@ interface CourseCardProps {
 export function CourseCard({
                                course,
                                isEnrolled,
-                               onEnroll,   // <-- Use the prop
+                               onEnroll,
                                showEnrollButton = true
                            }: CourseCardProps) {
 

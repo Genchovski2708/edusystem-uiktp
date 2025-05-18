@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Service\\EducationSystem.Service.csproj": {}
+    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Service\\EducationSystem.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj": {
+    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj",
         "projectName": "EducationSystem.Domain",
-        "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Repository\\EducationSystem.Repository.csproj": {
+    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Repository\\EducationSystem.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Repository\\EducationSystem.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Repository\\EducationSystem.Repository.csproj",
         "projectName": "EducationSystem.Repository",
-        "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Repository\\EducationSystem.Repository.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Repository\\EducationSystem.Repository.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Repository\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj"
+              "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj"
               }
             }
           }
@@ -178,14 +178,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Service\\EducationSystem.Service.csproj": {
+    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Service\\EducationSystem.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Service\\EducationSystem.Service.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Service\\EducationSystem.Service.csproj",
         "projectName": "EducationSystem.Service",
-        "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Service\\EducationSystem.Service.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Service\\EducationSystem.Service.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Service\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -207,11 +207,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj"
+              "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj"
               },
-              "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Repository\\EducationSystem.Repository.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Repository\\EducationSystem.Repository.csproj"
+              "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Repository\\EducationSystem.Repository.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Repository\\EducationSystem.Repository.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj": {}
+    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj": {
+    "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj",
         "projectName": "EducationSystem.Domain",
-        "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\EducationSystem.Domain.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\EducationSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\UIKTP-Project\\EducationSystem.Domain\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Faklutet\\UIKTP\\full\\edusystem-uiktp\\backend\\EducationSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
